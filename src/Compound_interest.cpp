@@ -66,6 +66,6 @@ int main()
     const double kIncomeTax = 19.0;
     cout<<"After "<<kIncomeTax<<"% tax deduction you get: ";
     cout<<(1.0-kIncomeTax/kPercentageDiv) * income<<endl;
-    
+    system("pause");
     return 0;
 }
