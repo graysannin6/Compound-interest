@@ -26,7 +26,7 @@ int main()
     }
 
     // ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
-    cout << "Compound frequency is a persiod in months between computing interest" << endl;
+    cout << "Compound frequency is a period in months between computing interest" << endl;
     cout << "Ex: if 2 times a year, enter 6" << endl;
     cout << "if you dont know,enter 12 for a year compound frequecy." << endl;
     cout << "enter the compound frequency [months 1-72]: " << endl;
